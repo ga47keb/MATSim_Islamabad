@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.matsim.contrib:otfvis:0.10.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/matsim/contrib/otfvis/0.10.0-SNAPSHOT/otfvis-0.10.0-20180303.102728-383.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/matsim/contrib/otfvis/0.10.0-SNAPSHOT/otfvis-0.10.0-20180303.102728-383-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/matsim/contrib/otfvis/0.10.0-SNAPSHOT/otfvis-0.10.0-20180303.102728-383-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,28 @@
+2018-03-05 14:23:28,202  WARN VspConfigConsistencyCheckerImpl:83 you are insisting on config v1.  vsp default is using v2.
+2018-03-05 14:23:28,202  WARN VspConfigConsistencyCheckerImpl:189 You are not setting fractionOfIterationsToStartScoreMSA; vsp default is to set this to something like 0.8.  This means you have to add the following lines to your config file: 
+2018-03-05 14:23:28,202  WARN VspConfigConsistencyCheckerImpl:191 <module name="planCalcScore">
+2018-03-05 14:23:28,202  WARN VspConfigConsistencyCheckerImpl:192 	<param name="fractionOfIterationsToStartScoreMSA" value="0.8" />
+2018-03-05 14:23:28,203  WARN VspConfigConsistencyCheckerImpl:193 </module>
+2018-03-05 14:23:28,203  WARN VspConfigConsistencyCheckerImpl:202 You are not removing unnecessary plan attributes; vsp default is to do that.
+2018-03-05 14:23:28,203  WARN VspConfigConsistencyCheckerImpl:235 found `plansCalcRoute.insertingAccessEgressWalk==false'; vsp should try out `true' and report. 
+2018-03-05 14:23:28,203  WARN VspConfigConsistencyCheckerImpl:242 found qsim.usePersonIdForMissingVehicleId==true; this is only for backwards compatibility and should rather be set to false
+2018-03-05 14:23:28,203  WARN VspConfigConsistencyCheckerImpl:247 found `qsim.usingTravelTimeCheckInTeleporation==false'; vsp should try out `true' and report.
+2018-03-05 14:23:28,203  WARN VspConfigConsistencyCheckerImpl:290 You have not set fractionOfIterationsToDisableInnovation; vsp default is to set this to 0.8 or similar.  Add the following config lines:
+2018-03-05 14:23:28,203  WARN VspConfigConsistencyCheckerImpl:291 <module name="strategy">
+2018-03-05 14:23:28,203  WARN VspConfigConsistencyCheckerImpl:292 	<param name="fractionOfIterationsToDisableInnovation" value="0.8" />
+2018-03-05 14:23:28,203  WARN VspConfigConsistencyCheckerImpl:293 </module>
+2018-03-05 14:23:28,485  WARN MGC:175 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).
+2018-03-05 14:23:29,162  WARN MGC:175 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).
+2018-03-05 14:23:29,290  WARN QueueWithBuffer:413 storage capacity not sufficient for holes; increasing from 4668.893473245653 to 5252.505157401358
+2018-03-05 14:23:29,292  WARN QueueWithBuffer:413 storage capacity not sufficient for holes; increasing from 977.0405987530743 to 1099.1706735972084
+2018-03-05 14:23:29,293  WARN QueueWithBuffer:413 storage capacity not sufficient for holes; increasing from 433.0125786842736 to 487.1391510198077
+2018-03-05 14:23:29,293  WARN QueueWithBuffer:413 storage capacity not sufficient for holes; increasing from 37.38454863496422 to 42.05761721433473
+2018-03-05 14:23:29,293  WARN QueueWithBuffer:413 storage capacity not sufficient for holes; increasing from 51.417521416304716 to 57.844711593342794
+2018-03-05 14:23:29,294  WARN QueueWithBuffer:413 storage capacity not sufficient for holes; increasing from 712.0285075554619 to 801.0320709998946
+2018-03-05 14:23:29,294  WARN QueueWithBuffer:413 storage capacity not sufficient for holes; increasing from 10.154665102261292 to 11.42399824004395
+2018-03-05 14:23:29,294  WARN QueueWithBuffer:413 storage capacity not sufficient for holes; increasing from 1356.7476198762402 to 1526.3410723607699
+2018-03-05 14:23:29,300  WARN QueueWithBuffer:413 storage capacity not sufficient for holes; increasing from 641.8210571238498 to 738.094215692427
+2018-03-05 14:23:29,301  WARN QueueWithBuffer:413 storage capacity not sufficient for holes; increasing from 70.94126159642568 to 79.80891929597887
+2018-03-05 14:23:29,301  WARN QueueWithBuffer:413 storage capacity not sufficient for holes; increasing from 69.57369291733535 to 78.27040453200227
+2018-03-05 14:23:37,747  WARN MGC:175 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).
+2018-03-05 14:23:37,747  WARN MGC:175 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).
